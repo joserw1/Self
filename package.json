@@ -1,0 +1,16 @@
+{
+  "name": "discord-afk-multi",
+  "version": "1.0.0",
+  "description": "Multi-account Discord self-bot for AFK voice 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "@discordjs/voice": "^0.16.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
